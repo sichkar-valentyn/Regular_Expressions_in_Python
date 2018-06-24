@@ -1,3 +1,15 @@
+# File: Regular_expressions.py
+# Description: Example on how to use regular expressions in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Example on how to use regular expressions in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Regular_Expressions_in_Python (date of access: XX.XX.XXXX)
+
+
 # Importing module 're' to match some pattern to the string or text
 # Considering four functions in the module
 # match, search, findall, sub
